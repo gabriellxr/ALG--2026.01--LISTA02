@@ -29,6 +29,7 @@ int main() {
     }
 
     printf("O MMC de %d e %d e: %d\n", num1, num2, resultado_mmc);
-
+    
+    system("pause");
     return 0;
 }
