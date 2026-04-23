@@ -1,1 +1,1 @@
-lista de atividades lista 2 algoritmos
+lista de atividades 2 algoritmos
